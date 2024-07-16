@@ -1,0 +1,21 @@
+.quiz-section {
+    border: 1px solid black;
+    border-radius: 1rem;
+    margin: 4rem;
+}
+
+.lists {
+    padding: 1rem;
+}
+
+.question {
+    padding: 1rem;
+}
+
+.result {
+    border: 1px solid red;
+    border-radius: 1rem;
+    padding: 2rem;
+    text-align: center;
+    background-color: #e9e0a07a;
+}
